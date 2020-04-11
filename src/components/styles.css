@@ -1,0 +1,11 @@
+.header_body {
+  display: flex;
+  height: 100;
+  background-color: white;
+  width: 100%;
+  padding-top: 20;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20;
+  border-bottom: double;
+}
