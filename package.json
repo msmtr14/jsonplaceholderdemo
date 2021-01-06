@@ -18,7 +18,7 @@
     "@types/react-router-dom": "^5.1.4",
     "@types/redux-promise": "^0.5.28",
     "add": "^2.0.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "promise-middleware": "^1.0.7",
     "react": "^16.13.1",
     "react-autosuggest": "^10.0.0",
